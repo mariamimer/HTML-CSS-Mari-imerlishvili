@@ -1,0 +1,46 @@
+body {
+    background-image: url(photo1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+.bg1{
+    font-size: 2em;
+    align-items: center;
+    color: bisque;
+}
+.bg2{
+    color: green;
+}
+.bg2{
+    color: green;
+}
+.bg3{
+    color: green;
+}
+.bg4{
+    color: hotpink;
+}
+.bg5{
+    color: green;
+}
+.bg6{
+    color: hotpink;
+}
+.photos{
+    margin: auto;
+    text-align: center;
+    size: 20px;;
+}
+.copy{
+    margin-right: 150px;
+    color: white;
+
+}
+
+.footer{
+     text-align: center;
+     margin-top: 100px;
+}
